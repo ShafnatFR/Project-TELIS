@@ -9,4 +9,5 @@ Karena proyek ini bersifat pribadi, bukan resmi dan dikerjakan oleh 1 developer 
 Web ini dibangun tanpa database karena hanya memanfaatkan github saja maka saya membuat frontend saja tanpa logic di belakangnya.
 
 Sekian, terima kasih.
+
 Shafnat Fuaini Ramadhan, 19 Agustus 2025.
